@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 - 📫 How to reach me: m.kaczmarek0991@gmail.com
 
